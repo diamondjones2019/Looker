@@ -9,4 +9,5 @@ Copies of work can be found as a PDF
 4. New York State Health.Data.NY.GOV. (2023) Mew York State Statewide COVID-19 Testing (Archived) https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing-Archived/xdss-u53e/data
 5. Music & Mental Health Survey Results, Catherine Rasgaitis, 2022, https://www.kaggle.com/datasets/catherinerasgaitis/mxmh-survey-results
 6. E-Commerce Shipping Data, Prachi Gopalani, 2021, https://www.kaggle.com/datasets/prachi13/customer-analytics
+7. Jones, Diamond (2024), Primary Sources: Transactions from Bank Purchases
 
