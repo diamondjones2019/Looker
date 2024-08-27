@@ -2,7 +2,7 @@
 Analyze and clean data in excel transferring into Looker
 
 Supermarket sales, Aung Pyae, 2019, https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales
-Within the sup
+Summarizing supermarket sales, food and beverage and fashion has drived majority of sales in town C than it has in A + B
 
 New York State Health.Data.NY.GOV. (2023) New York State Statewide COVID-19 Testing (Archived) https://health.data.ny.gov/Health/New-York-State-Statewide-COVID-19-Testing-Archived/xdss-u53e/data
 Analyzing the past 3 years COVID has impacted New York State residents every other year. As COVID continues to spread, more people are being tested or testing positive. What can we do to reduce the spread as years go one? Will there be another booster shot?
